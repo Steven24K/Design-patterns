@@ -1,0 +1,78 @@
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\obj\x86\Debug\GUIapp.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\obj\x86\Debug\GUIapp.exe
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\obj\x86\Debug\GUIapp.pdb
+C:\Users\steve\Documents\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 1 - incomplete\GUIapp\bin\Windows\x86\Debug\Content\button.xnb
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\Content\button.xnb
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\obj\x86\Debug\GUIapp.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\obj\x86\Debug\GUIapp.exe
+C:\Users\steve\Documents\oud\jaar 1\periode 4\Development 4\INFDEV02-4-master\Assignment\Windows + C# + Monogame incomplete assignments\GUIapp_Steven_Koerts_0904861\GUIapp\obj\x86\Debug\GUIapp.pdb
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\Content\button.xnb
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\obj\x86\Debug\GUIapp.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\obj\x86\Debug\GUIapp.exe
+C:\Users\steve\Documents\GitKraken\Design-patterns\GUIapp\obj\x86\Debug\GUIapp.pdb

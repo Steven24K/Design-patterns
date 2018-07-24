@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/background.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/ikea.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/mine.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/mine_cart.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/ore_container.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/product_box.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/product_container.png</File>
+    <File>C:/Users/steve/Documents/oud/jaar 1/periode 3/Development 3/Assignement_Steven_Koerts_0904861/Steven_Koerts_0904861_BetterVersion/AssignmentComplete/Content/volvo.png</File>
+  </SourceFiles>
+</SourceFileCollection>
