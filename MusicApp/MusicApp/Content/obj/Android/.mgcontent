@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/pixel.png</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_g.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_a.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_b.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_bb.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_c.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_d.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_e.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_eb.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_f.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_cs.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_fs.wav</File>
+    <File>C:/Users/steve/Documents/MusicApp/MusicApp/Content/piano_gs.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

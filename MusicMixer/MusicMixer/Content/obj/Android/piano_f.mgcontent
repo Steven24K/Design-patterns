@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/steve/Documents/MusicMixer/MusicMixer/Content/piano_f.wav</SourceFile>
+  <SourceTime>2017-07-06T17:19:07.8978793+02:00</SourceTime>
+  <DestFile>C:/Users/steve/Documents/MusicMixer/MusicMixer/Content/bin/Android/piano_f.xnb</DestFile>
+  <DestTime>2017-07-12T12:35:27.6922419+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

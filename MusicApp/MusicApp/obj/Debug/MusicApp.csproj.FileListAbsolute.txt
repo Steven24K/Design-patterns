@@ -1,0 +1,17 @@
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MusicApp.dll
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MusicApp.pdb
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MusicApp.MusicApp.apk
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MusicApp.MusicApp-Signed.apk
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\MusicApp.dll
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\android\bin\MusicApp.MusicApp.apk
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\res\values\strings.xml
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\res\drawable\icon.png
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\res\drawable\splash.png
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\res\values\styles.xml
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\R.cs.flag
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\uploadflags.txt
+C:\Users\steve\Documents\MusicApp\MusicApp\bin\Android\AnyCPU\Debug\MusicApp.dll.mdb
+C:\Users\steve\Documents\MusicApp\MusicApp\obj\Debug\android\assets\MusicApp.dll.mdb
